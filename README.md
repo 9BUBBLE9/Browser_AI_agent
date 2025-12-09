@@ -7,21 +7,18 @@ Playwright (браузерная автоматизация)
 OpenAI API
 
 Browser_AI_agent/
-│
-├── agent.py                # Логика агента и принятие решений
-├── browser_controller.py   # Управление браузером, инструменты Playwright
-├── tools.py                # Абстракции над действиями: click, navigate, type...
-├── memory.py               # Короткая память для предотвращения повторов
-├── login_yandex_eda.py     # Модуль для авторизации пользователя
-├── config.py               # Загрузка конфигурации и API ключей
-├── main.py                 # CLI — точка входа, запуск агента
-│
-├── user_data/              # Папка, создаваемая проектом для локальных данных
-│
-├── .env_example            # Образец файла конфигурации (Для работы нужно будет вписать свой API_KEY)
-├── .gitignore              # Игнорируется pycache, .env, временные файлы
-├── requirements.txt        # Зависимости
-└── README.md               # Текущее описание проекта
+agent.py                # Логика агента и принятие решений
+browser_controller.py   # Управление браузером, инструменты Playwright
+tools.py                # Абстракции над действиями: click, navigate, type...
+memory.py               # Короткая память для предотвращения повторов
+login_yandex_eda.py     # Модуль для авторизации пользователя
+config.py               # Загрузка конфигурации и API ключей
+main.py                 # CLI — точка входа, запуск агента
+user_data/              # Папка, создаваемая проектом для локальных данных
+.env_example            # Образец файла конфигурации (Для работы нужно будет вписать свой API_KEY)
+.gitignore              # Игнорируется pycache, .env, временные файлы
+requirements.txt        # Зависимости
+README.md               # Текущее описание проекта
 
 1. Установка проекта:
   git clone https://github.com/9BUBBLE9/Browser_AI_agent.git
