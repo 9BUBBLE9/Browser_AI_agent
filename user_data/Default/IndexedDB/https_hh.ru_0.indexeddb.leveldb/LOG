@@ -1,0 +1,13 @@
+2025/12/08-16:32:14.033 2fec Reusing MANIFEST F:\TZ_Солюшн\ai_browser_agent\user_data\Default\IndexedDB\https_hh.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/08-16:32:14.033 2fec Recovering log #54
+2025/12/08-16:32:14.034 2fec Reusing old log F:\TZ_Солюшн\ai_browser_agent\user_data\Default\IndexedDB\https_hh.ru_0.indexeddb.leveldb/000054.log 
+2025/12/08-16:32:14.164 2fec Level-0 table #59: started
+2025/12/08-16:32:14.175 2fec Level-0 table #59: 2377 bytes OK
+2025/12/08-16:32:14.195 2fec Delete type=0 #54
+2025/12/08-16:32:14.195 2fec Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 2587 : 1
+2025/12/08-16:32:14.196 2fec Compacting 1@0 + 1@1 files
+2025/12/08-16:32:14.216 2fec Generated table #60@0: 120 keys, 2099 bytes
+2025/12/08-16:32:14.216 2fec Compacted 1@0 + 1@1 files => 2099 bytes
+2025/12/08-16:32:14.236 2fec compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/08-16:32:14.237 2fec Delete type=2 #59
+2025/12/08-16:32:14.237 2fec Manual compaction at level-0 from '\x00\x1e\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 2587 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

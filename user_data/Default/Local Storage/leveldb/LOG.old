@@ -1,0 +1,15 @@
+2025/12/08-20:47:10.288 3740 Reusing MANIFEST F:\TZ_Солюшн\ai_browser_agent\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/08-20:47:10.291 3740 Recovering log #21
+2025/12/08-20:47:10.292 3740 Reusing old log F:\TZ_Солюшн\ai_browser_agent\user_data\Default\Local Storage\leveldb/000021.log 
+2025/12/08-20:48:10.307 e0c Level-0 table #24: started
+2025/12/08-20:48:10.326 e0c Level-0 table #24: 20097 bytes OK
+2025/12/08-20:48:10.347 e0c Delete type=0 #21
+2025/12/08-20:48:10.347 e0c Compacting 4@0 + 1@1 files
+2025/12/08-20:48:10.422 e0c Generated table #25@0: 131 keys, 617566 bytes
+2025/12/08-20:48:10.422 e0c Compacted 4@0 + 1@1 files => 617566 bytes
+2025/12/08-20:48:10.463 e0c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/08-20:48:10.464 e0c Delete type=2 #12
+2025/12/08-20:48:10.464 e0c Delete type=2 #15
+2025/12/08-20:48:10.464 e0c Delete type=2 #17
+2025/12/08-20:48:10.464 e0c Delete type=2 #20
+2025/12/08-20:48:10.464 e0c Delete type=2 #24

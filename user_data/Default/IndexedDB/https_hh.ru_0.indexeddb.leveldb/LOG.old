@@ -1,0 +1,5 @@
+2025/12/08-16:32:10.083 2fec Reusing MANIFEST F:\TZ_Солюшн\ai_browser_agent\user_data\Default\IndexedDB\https_hh.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/08-16:32:10.084 2fec Recovering log #54
+2025/12/08-16:32:10.084 2fec Reusing old log F:\TZ_Солюшн\ai_browser_agent\user_data\Default\IndexedDB\https_hh.ru_0.indexeddb.leveldb/000054.log 
+2025/12/08-16:32:10.084 2fec Delete type=2 #52
+2025/12/08-16:32:10.220 46c Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
