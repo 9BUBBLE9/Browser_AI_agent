@@ -21,35 +21,35 @@ requirements.txt        # Зависимости
 README.md               # Текущее описание проекта
 
 1. Установка проекта:
-  git clone https://github.com/9BUBBLE9/Browser_AI_agent.git
-  cd Browser_AI_agent
+  git clone https://github.com/9BUBBLE9/Browser_AI_agent.git<br>
+  cd Browser_AI_agent<br>
 
 3. Установить зависимости:
-  pip install -r requirements.txt
+  pip install -r requirements.txt<br>
 
 4. Установить Playwright браузеры:
-   playwright install
+   playwright install<br>
 
 5. Создайть или скопировать .env
-   cp .env_example .env
-   +заполнить:
-     OPENAI_API_KEY=your_key_here
+   cp .env_example .env<br>
+   +заполнить:<br>
+     OPENAI_API_KEY=your_key_here<br>
    
 6. Запуск агента
-   python main.py
+   python main.py<br>
 
 7. После запуска появится приглашение:
-   Надо сюда ввести задачу (например: 'Закажи бургер из яндекс еды на мой адрес)
-   Опиши задачу для агента: ...
+   Надо сюда ввести задачу (например: 'Закажи бургер из яндекс еды на мой адрес)<br>
+   Опиши задачу для агента: ...<br>
 
 Как работает агент:
   LLM получает текст задачи<br>
   Модель формирует следующий шаг<br>
   Агент вызывает нужный инструмент:<br>
     navigate(url)<br>
-    click_element(index)
-    type_into_input(index)
-    get_observation()
-  Агент анализирует обновлённое состояние страницы
-  Повторяет цикл до достижения результата или тупика
-  Возвращает отчёт пользователю
+    click_element(index)<br>
+    type_into_input(index)<br>
+    get_observation()<br>
+  Агент анализирует обновлённое состояние страницы<br>
+  Повторяет цикл до достижения результата или тупика<br>
+  Возвращает отчёт пользователю<br>
